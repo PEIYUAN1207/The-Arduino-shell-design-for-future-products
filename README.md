@@ -13,5 +13,5 @@ However, its fitting parts are relatively thin and easy to break.
 This is the third version of the housing, an improvement on the second version. The interlocking structure has been optimized.
 However, the interlocking portion is quite thick and needs to be polished or reduced in the file.
 
-[Laser cut cover]((https://github.com/PEIYUAN1207/The-Arduino-shell-design-for-future-products/blob/main/%E6%BF%80%E5%85%89%E5%88%87%E5%89%B2.ai)
+[Laser cut cover](https://github.com/PEIYUAN1207/The-Arduino-shell-design-for-future-products/blob/main/%E6%BF%80%E5%85%89%E5%88%87%E5%89%B2.ai)
 This is the drawing file for laser cutting cover, 4 can be cut at a time
